@@ -12,11 +12,12 @@
 ## Sobre 
 O TenhoChance é um sistema que lê o PDF disponibilizado pela UnB com as informações sobre os candidatos, separa os candidatos e seus respectivos cursos, os ordena de acordo com a classificação geral e, por meio de web scraping, verifica quem foi aprovado ou não no site do Cebraspe.
 
+![img](https://github.com/projeto-de-algoritmos/DC_TenhoChance_/blob/master/documentacao/Diagrama%20sem%20nome.drawio.png)
+
 ## Screenshots
 ![img](https://github.com/projeto-de-algoritmos/DC_TenhoChance_/blob/master/documentacao/tenhochance1.jpeg)
 ![img](https://github.com/projeto-de-algoritmos/DC_TenhoChance_/blob/master/documentacao/tenhochance2.jpeg)
 ![img](https://github.com/projeto-de-algoritmos/DC_TenhoChance_/blob/master/documentacao/tenhochance3.jpeg)
-![img](https://github.com/projeto-de-algoritmos/DC_TenhoChance_/blob/master/documentacao/Diagrama%20sem%20nome.drawio.png)
 
 ## Instalação 
 **Linguagem**: Java<br>
