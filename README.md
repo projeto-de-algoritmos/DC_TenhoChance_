@@ -16,6 +16,8 @@ O TenhoChance é um sistema que lê o PDF disponibilizado pela UnB com as inform
 ![img](https://github.com/projeto-de-algoritmos/DC_TenhoChance_/blob/master/documentacao/tenhochance1.jpeg)
 ![img](https://github.com/projeto-de-algoritmos/DC_TenhoChance_/blob/master/documentacao/tenhochance2.jpeg)
 ![img](https://github.com/projeto-de-algoritmos/DC_TenhoChance_/blob/master/documentacao/tenhochance3.jpeg)
+![img](https://github.com/projeto-de-algoritmos/DC_TenhoChance_/blob/master/documentacao/Diagrama%20sem%20nome.drawio.png)
+
 ## Instalação 
 **Linguagem**: Java<br>
 **Framework**: Spring e Angular<br>
