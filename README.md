@@ -33,15 +33,31 @@ Ter um banco de dados MySQL instalado: É necessário ter o banco de dados MySQL
 
 Criar o banco de dados "tenho_chance": No terminal do MySQL ou usando uma ferramenta como o DBeaver, execute o comando CREATE DATABASE tenho_chance para criar o banco de dados necessário para o funcionamento do software.
 
-Executar o Maven no diretório raiz: No diretório raiz do projeto, execute o comando mvn clean install compile para compilar e construir o software. Em seguida, execute mvn spring-boot:run para iniciar o servidor.
+```bash 
+CREATE DATABASE tenhochance
+```
 
+Executar o Maven no diretório raiz: No diretório raiz do projeto, execute o comando mvn clean install compile para compilar e construir o software. Em seguida, execute mvn spring-boot:run para iniciar o servidor.
+` 
+```bash 
+mvn clean install compile
+```
+```bash 
+mvn spring-boot:run
+```
 Acesso ao diretório do frontend: Navegue até o diretório do frontend do projeto.
 
 Ter o Node.js versão 16 instalado: Certifique-se de ter o Node.js instalado na versão 16 ou superior. Você pode baixar e instalar o Node.js a partir do site oficial.
 
 Executar o comando npm install: No diretório do frontend, execute o comando npm install para instalar todas as dependências necessárias para o frontend do software.
 
+```bash 
+npm install
+```
 Executar o comando npm start: Após a conclusão da instalação das dependências, execute o comando npm start para iniciar o servidor do frontend.
+```bash 
+npm start
+```
 
 Acessar o software no navegador: Abra o navegador (recomendamos o Firefox) e navegue para localhost:4200 para acessar o software "Tenho Chance" e utilizá-lo para verificar as informações e chances dos candidatos.
 
