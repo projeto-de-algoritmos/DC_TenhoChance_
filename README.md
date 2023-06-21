@@ -21,6 +21,12 @@ O TenhoChance é um sistema que lê o PDF disponibilizado pela UnB com as inform
 **Framework**: Spring e Angular<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
+<div style="display: inline_block" align="center"><br>
+   <img align="center" alt="Judeu-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+
+ </div> 
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
 ## Uso 
 Pré-requisitos para executar o software "Tenho Chance":
 
