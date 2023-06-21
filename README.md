@@ -60,7 +60,12 @@ npm start
 ```
 
 Acessar o software no navegador: Abra o navegador (recomendamos o Firefox) e navegue para localhost:4200 para acessar o software "Tenho Chance" e utilizá-lo para verificar as informações e chances dos candidatos.
+```
+localhost:4200
+```
+[Documentação Swagger - Backend API](http://localhost:8080/swagger-ui/index.html#/root-controller)
 
+Ao acessar esse link em seu navegador enquanto o servidor backend estiver sendo executado localmente, você poderá visualizar e explorar a documentação da API do software "Tenho Chance" fornecida pelo Swagger. Isso permitirá entender melhor os endpoints disponíveis, os parâmetros esperados e as respostas retornadas pela API.
 
 
 
