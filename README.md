@@ -1,6 +1,6 @@
-# TenhoChance
+# ¿ Tenho Chance ?
 
-**Número da Lista**: X<br>
+**Número da Lista**: 26<br>
 **Conteúdo da Disciplina**: Divide & Conquer<br>
 
 ## Alunos
