@@ -53,6 +53,9 @@ Ter o Node.js versão 16 instalado: Certifique-se de ter o Node.js instalado na 
 Executar o comando npm install: No diretório do frontend, execute o comando npm install para instalar todas as dependências necessárias para o frontend do software.
 
 ```bash 
+nvm use 16
+```
+```bash 
 npm install
 ```
 Executar o comando npm start: Após a conclusão da instalação das dependências, execute o comando npm start para iniciar o servidor do frontend.
